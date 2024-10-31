@@ -21,7 +21,7 @@ const Header = () => {
         className="logo"
         style={{ display: "flex", alignItems: "center", gap: "10px" }}
       >
-        <img src="src/assets/logo.JPG" alt="Logo" />
+        <img src="/src/assets/logo.JPG" alt="Logo" />
         <div style={{ fontSize: "1rem" }}>Grace Medical Foundation</div>
       </div>
 
